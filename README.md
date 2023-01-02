@@ -11,6 +11,6 @@ Solved problems from the CodeSignal website and posted here should not be copied
 
 ## Meta
 
-Marcos Glasner - [https://github.com/Curio5813/ProjectEuler](https://github.com/Curio5813)
+Marcos Glasner - [https://github.com/Curio5813/CodeSignal](https://github.com/Curio5813)
 
 marcosglasner@gmail.com

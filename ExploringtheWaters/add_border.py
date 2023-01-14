@@ -30,3 +30,5 @@ def addBorder(picture):
 
 
 print(addBorder(picture))
+print("")
+print("That's all folks!")

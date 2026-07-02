@@ -1,1 +1,6 @@
-# created by virtualenv automatically
+misc.xml
+workspace.xml
+
+.idea/
+.venv/
+
